@@ -13,7 +13,7 @@ License:
 The contents of this repository are licenced under cc-by
 https://creativecommons.org/licenses/by/4.0/deed.de
 
-This menas you can use the stuff even commercially as long you attribute me.
+This means you can use the stuff even commercially as long you attribute me.
 For attribution please use bitluni and the link https://youtube.com/bitlunislab
 
 have fun!
